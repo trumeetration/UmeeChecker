@@ -1,0 +1,3 @@
+export const INPUT_TEXT = "INPUT_TEXT";
+export const WALLET_CHECK = "WALLET_CHECK";
+export const WALLETS_DISPLAY = "WALLETS_DISPLAY";
